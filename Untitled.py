@@ -3,7 +3,7 @@ import time
 import ast
 import re
 
-api_id = # #Personal information from telegram api
+api_id = 1111111 # #Personal information from telegram api
 api_hash = '#' #Personal information from telegram api
 
 client = TelegramClient('anon', api_id, api_hash)#Passing all necessary values ​​to the session client
